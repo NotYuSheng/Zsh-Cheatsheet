@@ -1,6 +1,5 @@
 # Zsh-Cheatsheet
 
-## Command(s)
 View disk usage
 ```
 df -h
